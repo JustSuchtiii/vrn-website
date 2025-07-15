@@ -11,7 +11,7 @@ app.use(express.json());
 let newsItems = [
   {
     id: 1,
-    title: "Erste Nachricht",
+    title: "pimme",
     content: "REGEN",
     date: "01.01.2023"
   }
