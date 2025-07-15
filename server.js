@@ -12,7 +12,7 @@ let newsItems = [
   {
     id: 1,
     title: "Erste Nachricht",
-    content: "Dies ist die erste Nachricht vom Backend.",
+    content: "Wilmink hat nen großen",
     date: "01.01.2023"
   }
 ];
